@@ -1,73 +1,73 @@
 [
     {
       "id": 1,
-      "name": "SpongeBob",
+      "name": "Charmander",
       "image": "https://img.icons8.com/color/2x/charmander.png",
       "count": 0
     },
     {
       "id": 2,
-      "name": "Mr. Krabs",
+      "name": "Pikachu",
       "image": "https://img.icons8.com/color/2x/pikachu-pokemon.png",
       "count": 0
     },
     {
       "id": 3,
-      "name": "Squidward",
+      "name": "Dratini",
       "image": "https://img.icons8.com/color/2x/dratini.png",
       "count": 0
     },
     {
       "id": 4,
-      "name": "Dexter",
+      "name": "Bullbasaur",
       "image": "https://img.icons8.com/color/2x/bullbasaur.png",
       "count": 0
     },
     {
       "id": 5,
-      "name": "Courage",
+      "name": "Eevee",
       "image": "https://img.icons8.com/color/2x/eevee.png",
       "count": 0
     },
     {
       "id": 6,
-      "name": "Doug Funnie",
+      "name": "SuperBall",
       "image": "https://img.icons8.com/color/2x/superball.png",
       "count": 0
     },
     {
       "id": 7,
-      "name": "Bugs Bunny",
+      "name": "Snorlax",
       "image": "https://img.icons8.com/color/2x/snorlax.png",
       "count": 0
     },
     {
       "id": 8,
-      "name": "Johnny Bravo",
+      "name": "UltraBall",
       "image": "https://img.icons8.com/color/2x/ultra-ball.png",
       "count": 0
     },
     {
       "id": 9,
-      "name": "Tommy Pickles",
+      "name": "Pidgey",
       "image": "https://img.icons8.com/color/2x/pidgey.png",
       "count": 0
     },
     {
       "id": 10,
-      "name": "Rocko",
+      "name": "Squirlte",
       "image": "https://img.icons8.com/color/2x/squirtle.png",
       "count": 0
     },
     {
       "id": 11,
-      "name": "Captain Planet",
+      "name": "Pokeball",
       "image": "https://img.icons8.com/color/2x/pokeball-2.png",
       "count": 0
     },
     {
       "id": 12,
-      "name": "Ickis",
+      "name": "Psyduck",
       "image": "https://img.icons8.com/color/2x/psyduck.png",
       "count": 0
     }
