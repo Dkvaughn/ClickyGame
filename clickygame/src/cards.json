@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "name": "SpongeBob",
+      "image": "https://img.icons8.com/color/2x/charmander.png",
+      "count": 0
+    },
+    {
+      "id": 2,
+      "name": "Mr. Krabs",
+      "image": "https://img.icons8.com/color/2x/pikachu-pokemon.png",
+      "count": 0
+    },
+    {
+      "id": 3,
+      "name": "Squidward",
+      "image": "https://img.icons8.com/color/2x/dratini.png",
+      "count": 0
+    },
+    {
+      "id": 4,
+      "name": "Dexter",
+      "image": "https://img.icons8.com/color/2x/bullbasaur.png",
+      "count": 0
+    },
+    {
+      "id": 5,
+      "name": "Courage",
+      "image": "https://img.icons8.com/color/2x/eevee.png",
+      "count": 0
+    },
+    {
+      "id": 6,
+      "name": "Doug Funnie",
+      "image": "https://img.icons8.com/color/2x/superball.png",
+      "count": 0
+    },
+    {
+      "id": 7,
+      "name": "Bugs Bunny",
+      "image": "https://img.icons8.com/color/2x/snorlax.png",
+      "count": 0
+    },
+    {
+      "id": 8,
+      "name": "Johnny Bravo",
+      "image": "https://img.icons8.com/color/2x/ultra-ball.png",
+      "count": 0
+    },
+    {
+      "id": 9,
+      "name": "Tommy Pickles",
+      "image": "https://img.icons8.com/color/2x/pidgey.png",
+      "count": 0
+    },
+    {
+      "id": 10,
+      "name": "Rocko",
+      "image": "https://img.icons8.com/color/2x/squirtle.png",
+      "count": 0
+    },
+    {
+      "id": 11,
+      "name": "Captain Planet",
+      "image": "https://img.icons8.com/color/2x/pokeball-2.png",
+      "count": 0
+    },
+    {
+      "id": 12,
+      "name": "Ickis",
+      "image": "https://img.icons8.com/color/2x/psyduck.png",
+      "count": 0
+    }
+  ]
