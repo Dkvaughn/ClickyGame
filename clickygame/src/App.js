@@ -13,6 +13,8 @@ class App extends Component {
     highscore: 0
   };
 
+  
+
   gameOver = () => {
     if (this.state.score > this.state.highscore) {
       this.setState({highscore: this.state.score}, function() {
